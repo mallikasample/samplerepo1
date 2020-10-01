@@ -33,7 +33,7 @@
     <inceptionYear>2010</inceptionYear>
     <issueManagement>
         <system>GitHub Issue Tracking</system>
-        <url />
+        <url/>
     </issueManagement>
     <licenses>
         <license>
@@ -64,7 +64,7 @@
         <jackson1.version>1.9.11</jackson1.version>
         <jackson2.version>2.11.1</jackson2.version>
         <johnzon.version>1.1.11</johnzon.version>
-        <yasson.version>1.0.6</yasson.version>
+        <yasson.version>1.0.8</yasson.version>
         <jakarta.json.version>1.1.6</jakarta.json.version>
         <maven-javadoc.version>2.9.1</maven-javadoc.version>
         <surefire.version>2.22.0</surefire.version>
@@ -122,7 +122,7 @@
                     <version>${gmaven.version}</version>
                     <configuration>
                         <providerSelection>2.0</providerSelection>
-                        <source />
+                        <source/>
                     </configuration>
                     <dependencies>
                         <dependency>
