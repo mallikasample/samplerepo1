@@ -33,7 +33,7 @@
     <inceptionYear>2010</inceptionYear>
     <issueManagement>
         <system>GitHub Issue Tracking</system>
-        <url />
+        <url/>
     </issueManagement>
     <licenses>
         <license>
@@ -61,7 +61,7 @@
         <groovy.range>[3.0,3.1)</groovy.range>
         <gmaven.version>1.5</gmaven.version>
         <hamcrest.version>2.1</hamcrest.version>
-        <jackson1.version>1.9.11</jackson1.version>
+        <jackson1.version>1.9.13</jackson1.version>
         <jackson2.version>2.11.1</jackson2.version>
         <johnzon.version>1.1.11</johnzon.version>
         <yasson.version>1.0.6</yasson.version>
@@ -122,7 +122,7 @@
                     <version>${gmaven.version}</version>
                     <configuration>
                         <providerSelection>2.0</providerSelection>
-                        <source />
+                        <source/>
                     </configuration>
                     <dependencies>
                         <dependency>
